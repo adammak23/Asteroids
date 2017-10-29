@@ -5,12 +5,12 @@ To adjust game constants go to GameScene:
 Variable names are Self-explanatory  
   
 Spawner (Object):  
-⋅⋅┗Spawner.cs (Script):
-⋅⋅⋅┣ Number of Asteroids - initial number of asteroids
-⋅⋅⋅┣ Increment Asteroids Per Lvl - percentage of increment per lvl
-⋅⋅⋅┣ Initial Max Thrust - Asteroids start with (-x, x) range
-⋅⋅⋅┣ Initial Max Turn - etc.
-⋅⋅⋅┗ Percentage Offset Outside Screen - Region of asteroids spawn
+⋅⋅┗Spawner.cs (Script):  
+⋅⋅⋅┣ Number of Asteroids - initial number of asteroids  
+⋅⋅⋅┣ Increment Asteroids Per Lvl - percentage of increment per lvl  
+⋅⋅⋅┣ Initial Max Thrust - Asteroids start with (-x, x) range  
+⋅⋅⋅┣ Initial Max Turn - etc.  
+⋅⋅⋅┗ Percentage Offset Outside Screen - Region of asteroids spawn  
   
 Spaceship (Object):  
 ┗Controls.cs (Script): Thrust, Turn, Bullet Force  
