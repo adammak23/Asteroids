@@ -1,5 +1,6 @@
 # Asteroids
   
+An Unity game project based on Atari Asteroids  
 To adjust game constants go to GameScene:  
   
 Variable names are Self-explanatory  
